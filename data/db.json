@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "10 Packet of juice "
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "10 crates of eggs "
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "20 bags of beans "
+    }
+  ]
+}
